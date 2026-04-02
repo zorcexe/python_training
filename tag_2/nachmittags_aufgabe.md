@@ -7,9 +7,10 @@ in dem projekt gibt es zwei dateien, main.py und todos.py
 Erstelle ein Modul "todos". Lege dort eine Klasse Todo an.
 
 ## todos.py (Todo Klasse)
-Todos in einer Liste speichern
+- Todos in einer Liste speichern
+- 
 class Todo:
-Attribute:
+- Attribute:
 - name
 
 zwei Methoden
