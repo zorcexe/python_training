@@ -17,11 +17,11 @@ zwei Methoden
 - list_todos
 
 ## Aufruf
-todo_liste = Todo(name="Meine haushaltsliste")
-todo_liste.add_todo("Einkaufen")
-todo_liste.add_todo("Abspülen")
-todo_liste.list_todos()
+- todo_liste = Todo(name="Meine haushaltsliste")
+- todo_liste.add_todo("Einkaufen")
+- todo_liste.add_todo("Abspülen")
+- todo_liste.list_todos()
 
 ## main.py
-importiere Todo-klasse
-und lege Todos an
+- importiere Todo-klasse
+- und lege Todos an
